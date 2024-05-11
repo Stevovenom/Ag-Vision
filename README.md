@@ -25,7 +25,7 @@ We envision a future where farmers, regardless of their location or background, 
 ## 🔧 How we built it-
 1. Utilized the Gemini AI API for crop detection and recommendation
 2. The frontend consumes this API to display the results to the user
-3. Integrated tools like Gemini AI for crop analysis and Twilio for notifications, and Flutter for Mobile App Development.
+3. Integrated tools like Gemini AI for crop analysis, and Flutter for Mobile App Development.
 
 ## 💪 Challenges we ran into -
 Time constraints and learning new technologies on the go
