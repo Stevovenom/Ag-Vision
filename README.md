@@ -10,7 +10,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 
 ## Inspiration
-Creating a platform to simplify the process of crop detection and provide recommendations for any problems found.
+We've observed the difficulties faced by local farmers in Kenya, particularly regarding crop disease identification and management. Traditional methods can be time-consuming, lack accuracy, and require significant expertise.
+Many smallholder farmers lack access to advanced technologies and resources that could significantly improve their crop yields and overall farm management.
+The emergence of new crop diseases and the impact of climate change pose a significant threat to global food security. We believe innovative solutions are crucial to ensure a stable food supply.
+We envision a future where farmers, regardless of their location or background, have access to powerful AI-powered tools like Project Ag Vision. This empowers them to make informed decisions about their crops and achieve greater success.
 
 <div id="#usecase">
 
